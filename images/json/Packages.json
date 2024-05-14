@@ -1,0 +1,90 @@
+[
+  {
+    "id" : "0",
+    "Date" : "3 Day" ,
+    "category" : "Package",
+    "Price" : "400 USD",
+    "image" : [
+           "images/image/istockphoto-162048373-612x612.jpg",
+           "images/image/panama.jpg",
+           "images/image/Unawatuna.jpg"],
+    "Country" : "Sri Lanaka",
+    "Number of Cities" : "Kandy,Colombo",
+    "Tour Theme": "Culture,Beach,History",
+    "Suitable for" : "Family",
+    "Inclusion": "Private Driver/Guide,Breakfast & Dinner,Airport Pick-up, Airport Drop-off, Tour Consultant , Private Luxury Car",
+    "About" : "Embark on an exciting 3-day Sri Lanka tour filled with fun & relaxation. ,",
+    "Day 01 Activities": "Arrive at Sri Lanka (Katunayake)"
+  },
+
+  {
+    "id" : "1",
+    "Date" : "4 Day" ,
+    "category" : "Package",
+    "Price" : "400 US$",
+    "image" : [
+      "images/image/mirissa.jpg",
+      "images/image/panama.jpg",
+      "images/image/Unawatuna.jpg"],
+    "Country" : "Srilanaka",
+    "Number of Cities" : "Kandy,Colombo",
+    "Tour Theme": "Culture,Beach,History",
+    "Suitable for" : "Family",
+    "Inclusion": "Private Driver/Guide,Breakfast & Dinner,Airport Pick-up, Airport Drop-off, Tour Consultant , Private Luxury Car",
+    "About" : "Embark on an exciting 3-day Sri Lanka tour filled with fun & relaxation.",
+    "Day 01 Activities": "Arrive at Sri Lanka (Katunayake)"
+  },
+
+  {
+    "id" : "2",
+    "Date" : "5 Day" ,
+    "category" : "Package",
+    "Price" : "400 US$",
+    "image" : [
+      "images/image/mirissa.jpg",
+      "images/image/panama.jpg",
+      "images/image/Unawatuna.jpg"],
+    "Country" : "Srilanaka",
+    "Number of Cities" : "Kandy,Colombo",
+    "Tour Theme": "Culture,Beach,History",
+    "Suitable for" : "Family",
+    "Inclusion": "Private Driver/Guide,Breakfast & Dinner,Airport Pick-up, Airport Drop-off, Tour Consultant , Private Luxury Car",
+    "About" : "Embark on an exciting 3-day Sri Lanka tour filled with fun & relaxation.",
+    "Day 01 Activities": "Arrive at Sri Lanka (Katunayake)"
+  },
+
+  {
+    "id" : "3",
+    "Date" : "6 Day" ,
+    "category" : "Package",
+    "Price" : "400 US$",
+    "image" : [
+      "images/image/mirissa.jpg",
+      "images/image/panama.jpg",
+      "images/image/Unawatuna.jpg"],
+    "Country" : "Srilanaka",
+    "Number of Cities" : "Kandy,Colombo",
+    "Tour Theme": "Culture,Beach,History",
+    "Suitable for" : "Family",
+    "Inclusion": "Private Driver/Guide,Breakfast & Dinner,Airport Pick-up, Airport Drop-off, Tour Consultant , Private Luxury Car",
+    "About" : "Embark on an exciting 3-day Sri Lanka tour filled with fun & relaxation.",
+    "Day 01 Activities": "Arrive at Sri Lanka (Katunayake)"
+  },
+  {
+    "id" : "4",
+    "Date" : "7 Day" ,
+    "category" : "Package",
+    "Price" : "400 US$",
+    "image" : [
+      "images/image/mirissa.jpg",
+      "images/image/panama.jpg",
+      "images/image/Unawatuna.jpg"],
+    "Country" : "Srilanaka",
+    "Number of Cities" : "Kandy,Colombo",
+    "Tour Theme": "Culture,Beach,History",
+    "Suitable for" : "Family",
+    "Inclusion": "Private Driver/Guide,Breakfast & Dinner,Airport Pick-up, Airport Drop-off, Tour Consultant , Private Luxury Car",
+    "About" : "Embark on an exciting 3-day Sri Lanka tour filled with fun & relaxation.",
+    "Day 01 Activities": "Arrive at Sri Lanka (Katunayake)"
+  }
+]
